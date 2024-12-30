@@ -39,24 +39,24 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<p>
+<p align="center">
 <img src="https://imgur.com/MAhXK2e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<p>
-<img src="https://imgur.com/Zf2jw07.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/Zf2jw07.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
 3.) Once you have connected to your virtual machine you will want to go to your control panel. From the control panel open up programs. Select, Turn Windows features on and off.
 
-<p>
-<img src="https://imgur.com/fGXMpx4.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/fGXMpx4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
-<p>
-<img src="https://imgur.com/LBGkAw6.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/LBGkAw6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -65,13 +65,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 [X] CGI
 [X] Common HTTP Features
   
-<p>
-<img src="https://imgur.com/LQjw9le.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/LQjw9le.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
-<p>
-<img src="https://imgur.com/pbPeHb1.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/pbPeHb1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -80,8 +80,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  To make sure the IIS is installed / enabled go to a browser of your choice and search for 127.0.0.1 
   It should look something like this. 
   
-<p>
-<img src="https://imgur.com/eICujoq.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/eICujoq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -100,13 +100,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   !! ATTENTION !!
 If this appears, choose to “Keep” the file:
   
-<p>
-<img src="https://imgur.com/xZv1Yhw.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/xZv1Yhw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
-<p>
-<img src="https://imgur.com/YwBhqo0.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/YwBhqo0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -120,53 +120,53 @@ Standard Configuration ->
 
   Make the new root password: Password1
   
-<p>
-<img src="https://imgur.com/KxcUy7C.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/KxcUy7C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
   Execute the process on the next page.
   
-<p>
-<img src="https://imgur.com/i7sn6hT.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/i7sn6hT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
 11.) Now that we have the files downloaded and installed we will want to search for IIS in the windows search bar. Open IIS as an administrator.
   The program should look like this.
   
-<p>
-<img src="https://imgur.com/rgdZwmM.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/rgdZwmM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
 12.) We will now want to register PHP from within IIS.
   Click on PHP Manager
   
-<p>
-<img src="https://imgur.com/vvTLNBH.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/vvTLNBH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
 Register new PHP version.
   
-<p>
-<img src="https://imgur.com/qdbn5zQ.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/qdbn5zQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
 You will want to provide a path to the php executable file (php-cgi.exe)). 
   Go to C Drive -> PHP -> click on php-cgi file.
   
-<p>
-<img src="https://imgur.com/oJZ0gp9.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/oJZ0gp9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
   Restart the IIS server.
   
-<p>
-<img src="https://imgur.com/CJ3RUbG.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/CJ3RUbG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -180,15 +180,15 @@ You will want to provide a path to the php executable file (php-cgi.exe)).
 14.) On IIS go to sites -> Default -> osTicket
   -On the right, click “Browse *:80”
   
-<p>
-<img src="https://imgur.com/Yw55d5b.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/Yw55d5b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
   Some extensions are not enabled on the osTicket browser.
   
-<p>
-<img src="https://imgur.com/eJIsGTn.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/eJIsGTn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -197,13 +197,13 @@ You will want to provide a path to the php executable file (php-cgi.exe)).
   -Double click PHP manager
   -Click "Enable or disable an extension"
   
-<p>
-<img src="https://imgur.com/vvTLNBH.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/vvTLNBH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
-<p>
-<img src="https://imgur.com/uigyKjb.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/uigyKjb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -215,8 +215,8 @@ You will want to provide a path to the php executable file (php-cgi.exe)).
   
   3.) php_opcache.dll
   
-<p>
-<img src="https://imgur.com/cOem7Nb.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/cOem7Nb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -234,37 +234,37 @@ You will want to provide a path to the php executable file (php-cgi.exe)).
   
   Click Add
   
-<p>
-<img src="https://imgur.com/VPZvOdo.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/VPZvOdo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
 Select a principal
   
-<p>
-<img src="https://imgur.com/PoGk34d.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/PoGk34d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
   
  Type "Everyone" in the box.
   
-<p>
-<img src="https://imgur.com/F4H3ppM.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/F4H3ppM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
   Make sure Full Control and all the other boxes are checked.
   
-<p>
-<img src="https://imgur.com/rbbGqwB.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/rbbGqwB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
   Click Apply and Ok.
   
-<p>
-<img src="https://imgur.com/saRO3y5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/saRO3y5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -273,22 +273,22 @@ Select a principal
   
   We will want to download and install HeidiSQL from the Installation Files. 
   
-<p>
-<img src="https://imgur.com/i7a4gWC.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/i7a4gWC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
   When the program is open we will create a new session in it.
   
-<p>
-<img src="https://imgur.com/g5M1i61.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/g5M1i61.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
   We want to make sure the username is root and the password is Password1.
   
-<p>
-<img src="https://imgur.com/LEAZNOc.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/LEAZNOc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -296,8 +296,8 @@ Select a principal
   
   We will now create a new database within HeidiSQL. In Heidi right click on the left side where is says "Unnamed", select "create new", and then select "database". Name the new database osTicket. Once we have the new database setup go back to the osTicket browser and under MySQL Database type in osTicket.
   
-<p>
-<img src="https://imgur.com/0rG1AJm.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/0rG1AJm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -307,20 +307,20 @@ Select a principal
   
   We then will want to set the permissions back to "Read" only in the ost-config.php file.
   
-<p>
-<img src="https://imgur.com/wFr0pkK.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/wFr0pkK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
-<p>
-<img src="https://imgur.com/jsJOPyn.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/jsJOPyn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
   The last step after that is to login to osTicket on the browser.
   
-<p>
-<img src="https://imgur.com/uHVdDsx.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/uHVdDsx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
