@@ -18,7 +18,7 @@ This lab provides a step-by-step guide to installing osTicket, an open-source he
 
 <h2>osTicket Installation Files</h2>
 
-https://drive.google.com/drive/folders/1mKAD1ZaP1e3F0FInXuAlQ3Pcucz4Mb3O?usp=sharing
+https://drive.google.com/drive/folders/1_XTNGp1yIYAnbNxVJDT_SW_gBEoUp8rz?usp=sharing
 
 <h2>List of Prerequisites</h2>
 
